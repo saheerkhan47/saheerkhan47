@@ -1,6 +1,6 @@
 ## Hi,there 👋 I’m Saheer khan
 
-## Navigating Full Stack Development: Delivering End-to-End Web Experiences with Seamless Integration
+**Navigating Full Stack Development: Delivering End-to-End Web Experiences with Seamless Integration**
 
 - 🌱 I’m currently learning **MERN Stack**
 - 💬 Ask me about **Tech**
