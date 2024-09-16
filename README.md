@@ -1,9 +1,11 @@
 ## Hi,there 👋 I’m Saheer khan
 
+**Navigating Full Stack Development: Delivering End-to-End Web Experiences with Seamless Integration**
+
 - 🌱 I’m currently learning **MERN Stack**
 - 💬 Ask me about **Tech**
 - 📫 How to reach me :
- <br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/saheerkhan47)
+ <br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](www.linkedin.com/in/saheerkhan47/)
   
 
 <!---
