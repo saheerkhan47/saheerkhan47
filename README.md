@@ -8,7 +8,6 @@
  <br /><a href="https://www.linkedin.com/in/saheerkhan47/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
  
-
 ### Languages and Tools:
 <a href="https://react.dev/" target="_blank">
     <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="React Logo"/>
@@ -45,6 +44,9 @@
 </a> <a href="https://www.mongodb.com/" target="_blank">
     <img width="48" height="48" src="https://img.icons8.com/color/48/mongo-db.png" alt="mongo-db"/>
 </a> 
+<br><br>
+
+![Saheer's GitHub stats](https://github-readme-stats.vercel.app/api?username=saheerkhan47&theme=dark&show_icons=true&&hide=issues,contribs)
 
 
 [![Saheer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saheerkhan47&bg_color=000000&color=ffffff&line=00ff80&point=ffffff&area=true&hide_border=true)](https://github.com/saheerkhan47/github-readme-activity-graph)
