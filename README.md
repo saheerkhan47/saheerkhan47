@@ -46,6 +46,8 @@
 </a> 
 <br><br>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saheerkhan47&layout=compact)
+
 ![Saheer's GitHub stats](https://github-readme-stats.vercel.app/api?username=saheerkhan47&theme=dark&show_icons=true&&hide=issues,contribs)
 
 
