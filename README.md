@@ -5,7 +5,9 @@
 - 🌱 I’m currently learning **MERN Stack**
 - 💬 Ask me about **Tech**
 - 📫 How to reach me :
- <br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](www.linkedin.com/in/saheerkhan47/)
+ <br /><a href="https://www.linkedin.com/in/saheerkhan47/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+ 
 
 ### Languages and Tools:
 <a href="https://react.dev/" target="_blank">
